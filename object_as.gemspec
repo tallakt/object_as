@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["tallak@tveide.net"]
   spec.summary       = %q{Implementation of the Object#as method}
   spec.description   = %q{Object#as is useful for method chaining}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/tallakt/object_as"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
