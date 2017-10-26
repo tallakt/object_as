@@ -2,6 +2,9 @@
 
 A simple refinement to get Object#as
 
+## Deprecation warning
+
+As of Ruby version 2.5, the method `Kernel::yield_self` is included in the standard Ruby library and should be preferred to `Object::as`.
 
 ## Installation
 
